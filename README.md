@@ -1,2 +1,5 @@
 # VueMastery-Tutorials
-Implementations of Tutorials on VueMastery for learning VueJs
+Implementations of tutorials on VueMastery for learning VueJs
+
+## Tutorials So Far:
+* *_Introduction to VueJs_*
